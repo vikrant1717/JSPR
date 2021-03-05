@@ -9,6 +9,7 @@ function retrieveData (name) {
   } catch(e) {
     console.error(e)
     return 'EMPTY'
+    //comment
   }
 
 }
