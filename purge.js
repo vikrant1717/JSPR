@@ -13,6 +13,8 @@ if (!namesToRemove.length) {
         console.log(`Success deleting file: ${file}`);
       }catch (e) {
         console.error(`Error deleting file: ${file}`);
+        
+        //System.out.println("");
       }
     }
   });
