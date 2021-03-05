@@ -22,6 +22,12 @@ if (!namesToRemove.length) {
       console.error(err);
     } else {
       console.log('File "LAST_UPDATE" is updated successfully.');
+      System.out.println('File "LAST_UPDATE" is updated successfully.');
+      System.out.println('File "LAST_UPDATE" is updated successfully.');
+      System.out.println('File "LAST_UPDATE" is updated successfully.');
+      System.out.println('File "LAST_UPDATE" is updated successfully.');
+      System.out.println('File "LAST_UPDATE" is updated successfully.');
+      
     }
   });
 } else {
